@@ -1,9 +1,9 @@
 ### Hi there, I'm Rob - aka [Aqua] 👋
 
 
-- 🌱 I’m currently learning Lua
-- 🥅 2022 Goals: Contribute more to Open Source projects and learn more lua
-- ⚡ Fun fact: I love to videos games like Rainbow Six Siege & gmod!
+- 🌱 I’m currently coding in java and python
+- 🥅 2022 Goals: be good at coding 
+- ⚡ Fun fact: I love to videos games like Rainbow Six Siege & valorant!
 
 ### Connect with me:
 
