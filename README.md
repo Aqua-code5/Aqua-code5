@@ -1,9 +1,9 @@
 ### Hi there, I'm Rob - aka [Aqua] 👋
 
 
-- 🌱 I’m currently coding in java and python
-- 🥅 2022 Goals: be good at coding 
-- ⚡ Fun fact: I love to videos games like Rainbow Six Siege & valorant!
+- 🌱 I’m currently coding in java
+- 🥅 2023 Goals: improve skills in java and learn apis 
+- ⚡ Fun fact: I love to videos my favorite is rainbow six.
 
 ### Connect with me:
 
