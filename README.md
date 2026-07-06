@@ -1,27 +1,18 @@
-### Hi there, I'm Rob - aka [Aqua] 👋
+### Hi there, I'm Aqua 👋
 
 
-- 🌱 I’m currently coding in java
-- 🥅 2023 Goals: improve skills in java and learn apis 
-- ⚡ Fun fact: I love to videos my favorite is rainbow six.
+- 🌱 I’m currently coding in Lua
+- ⚡ Fun fact: I love to videos my favorite is CS:2
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />]
-
-
-<br />
-<br />
 
 
 
