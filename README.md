@@ -1,7 +1,7 @@
 ### Hi there, I'm Aqua 👋
 
 
-- 🌱 I’m currently coding in Lua
+- 🌱 I’m into Software development and making cool unique apps. 
 - ⚡ Fun fact: I love to videos my favorite is CS:2
 
 ### Connect with me:
